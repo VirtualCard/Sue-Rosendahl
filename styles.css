@@ -1,0 +1,117 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1125px;
+	 height: 2436px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: -1px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 1128px;
+	 height: 2443px;
+	 z-index:1;
+} 
+
+ #Logo 
+{ 
+	 left: 175px; 
+	 top: 113px; 
+	 position: absolute; 
+	 width: 775px;
+	 height: 424px;
+	 z-index:2;
+} 
+
+ #Pictur 
+{ 
+	 left: 325px; 
+	 top: 625px; 
+	 position: absolute; 
+	 width: 494px;
+	 height: 495px;
+	 z-index:3;
+} 
+
+ #NameLogo 
+{ 
+	 left: 126px; 
+	 top: 1173px; 
+	 position: absolute; 
+	 width: 873px;
+	 height: 373px;
+	 z-index:4;
+} 
+
+ #layer_5 
+{ 
+	 left: 234px; 
+	 top: 1541px; 
+	 position: absolute; 
+	 width: 662px;
+	 height: 44px;
+	 z-index:5;
+} 
+
+ #Name 
+{ 
+	 left: 515px; 
+	 top: 1640px; 
+	 position: absolute; 
+	 width: 604px;
+	 height: 113px;
+	 z-index:6;
+} 
+
+ #Email 
+{ 
+	 left: 243px; 
+	 top: 1802px; 
+	 position: absolute; 
+	 width: 757px;
+	 height: 113px;
+	 z-index:7;
+} 
+
+ #Location 
+{ 
+	 left: 158px; 
+	 top: 1953px; 
+	 position: absolute; 
+	 width: 702px;
+	 height: 113px;
+	 z-index:8;
+} 
+
+ #AddtoContacts 
+{ 
+	 left: 147px; 
+	 top: 2084px; 
+	 position: absolute; 
+	 width: 503px;
+	 height: 113px;
+	 z-index:9;
+} 
+
+ #layer_9412378067 
+{ 
+	 left: 268px; 
+	 top: 2273px; 
+	 position: absolute; 
+	 width: 589px;
+	 height: 117px;
+	 z-index:10;
+} 
